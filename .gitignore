@@ -1,0 +1,23 @@
+# Data (large, not yours to redistribute)
+dataset/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS/editor cruft
+.DS_Store
+.vscode/
+.idea/
+
+# Large/intermediate artifacts (optional — uncomment if these get big)
+# output/
+# *.tsv
